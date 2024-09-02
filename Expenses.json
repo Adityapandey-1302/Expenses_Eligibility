@@ -1,0 +1,66 @@
+[
+  {
+    "Grade": "E0",
+    "Expenses Eligibility": "Test - E0"
+  },
+  {
+    "Grade": "E1",
+    "Expenses Eligibility": "Test - E1"
+  },
+  {
+    "Grade": "E2-A",
+    "Expenses Eligibility": "Test - E2-A"
+  },
+  {
+    "Grade": "E2-A",
+    "Expenses Eligibility": "Test - E2-A"
+  },
+  {
+    "Grade": "E3",
+    "Expenses Eligibility": "Test - E3"
+  },
+  {
+    "Grade": "M0",
+    "Expenses Eligibility": "Test - M0"
+  },
+  {
+    "Grade": "M1",
+    "Expenses Eligibility": "Test - M1"
+  },
+  {
+    "Grade": "M2",
+    "Expenses Eligibility": "Test - M2"
+  },
+  {
+    "Grade": "M3",
+    "Expenses Eligibility": "Test - M3"
+  },
+  {
+    "Grade": "M4-A",
+    "Expenses Eligibility": "Test - M4-A"
+  },
+  {
+    "Grade": "M4",
+    "Expenses Eligibility": "Test - M4"
+  },
+  {
+    "Grade": "M5",
+    "Expenses Eligibility": "Test - M5"
+  },
+  {
+    "Grade": "M6",
+    "Expenses Eligibility": "Test - M6"
+  },
+  {
+    "Grade": "OS1",
+    "Expenses Eligibility": "Test - OS1"
+  },
+  {
+    "Grade": "OS2",
+    "Expenses Eligibility": "Test - OS2"
+  },
+  {
+    "Grade": "OS3",
+    "Expenses Eligibility": "Test - OS3"
+  }
+]
